@@ -187,5 +187,22 @@ document.addEventListener("DOMContentLoaded", () => {
       }, 100);
     }
   });
+
+  // Simple slider for project media
+  const sliders = document.querySelectorAll(".project-slider");
+  sliders.forEach((slider) => {
+    const slides = slider.querySelectorAll("img");
+    if (slides.length === 0) return;
+
+    let current = 0;
+    const intervalMs = 3500;
+    slides[current].classList.add("is-active");
+
+    setInterval(() => {
+      slides[current].classList.remove("is-active");
+      current = (current + 1) % slides.length;
+      slides[current].classList.add("is-active");
+    }, intervalMs);
+  });
 });
 
