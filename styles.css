@@ -175,10 +175,27 @@ main {
   color: var(--muted);
 }
 
+.project-btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: var(--fg);
+  color: var(--bg);
+  text-decoration: none;
+  border: 1px solid var(--fg);
+  font-size: 1.1rem;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.project-btn:hover {
+  background: var(--bg);
+  color: var(--fg);
+}
+
 .project-slider {
   position: relative;
   overflow: hidden;
-  min-height: 360px;
+  min-height: 480px;
 }
 
 .project-slider img {
