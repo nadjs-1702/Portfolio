@@ -309,9 +309,7 @@ main {
   transition: opacity 0.2s ease;
 }
 
-body:hover .cursor-pixel-wrapper {
-  opacity: 1;
-}
+
 
 .cursor-pixel-wrapper.pixel-off {
   opacity: 0 !important;
@@ -326,7 +324,7 @@ body:hover .cursor-pixel-wrapper {
   border-radius: 50%;
   clip-path: circle(50%);
   border: 2px solid rgba(255, 255, 255, 0.2);
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+
 }
 
 @media (pointer: coarse) {
@@ -352,5 +350,34 @@ body:hover .cursor-pixel-wrapper {
     padding-inline: 5vw;
   }
 }
+/* About layout */
+.about-layout {
+  display: grid;
+  grid-template-columns: 400px minmax(0, 1fr);
+  gap: 3rem;
+  align-items: start;
+  margin-top: 2rem;
+}
 
+/* About image styling */
+.about-image {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+
+  background: var(--bg-alt);
+  filter: grayscale(100%) contrast(1.05);
+}
+
+@media (max-width: 900px) {
+  .about-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .about-image {
+    width: 100%;
+    max-width: 320px;
+  }
+}
 
