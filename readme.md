@@ -9,8 +9,8 @@ Diese Lösung erschien mir jedoch schnell zu aufwendig. Die Variante mit YouTube
 Meine neue Idee war deshalb, meine Projekte auf einer minimalistischen Website für sich sprechen zu lassen und diese mit gut ausgewählten Fotos zu unterstreichen. 
 Jedes Projekt erhält eine kurze Beschreibung sowie eine Weiterleitung zu ausführlicheren Artikeln, vollständigen Videos oder zu Instagram-Auftritten, an denen ich mitgewirkt habe oder die ich selbst umgesetzt habe.
 <img width="1558" height="380" alt="Screenshot 2026-01-08 233658" src="https://github.com/user-attachments/assets/a967b021-df0e-428e-a985-42cb4661baad" />
-<i<img width="2667" height="337" alt="Screenshot 2026-01-08 234002" src="https://github.com/user-attachments/assets/d6966440-eefa-4494-a234-d5b7d731fda6" />
-mg width="550" height="771" alt="Screenshot 2026-01-08 233926" src="https://github.com/user-attachments/assets/ece1beeb-a463-41f1-921b-135025beb700" />
+<img width="550" height="771" alt="Screenshot 2026-01-08 233926" src="https://github.com/user-attachments/assets/ece1beeb-a463-41f1-921b-135025beb700" />
+<img width="2667" height="337" alt="Screenshot 2026-01-08 234002" src="https://github.com/user-attachments/assets/d6966440-eefa-4494-a234-d5b7d731fda6" />
 <img width="1084" height="467" alt="Screenshot 2026-01-08 234134" src="https://github.com/user-attachments/assets/28d0643c-502c-435c-aa67-8e98cba5d83f" />
 <img width="863" height="166" alt="Screenshot 2026-01-08 234158" src="https://github.com/user-attachments/assets/18b219ff-a95d-462a-bcdd-870ceb83dafb" />
 <img width="840" height="115" alt="Screenshot 2026-01-08 234207" src="https://github.com/user-attachments/assets/a5de7c8c-cfc3-4f73-afba-3c51c9b25f7b" />
