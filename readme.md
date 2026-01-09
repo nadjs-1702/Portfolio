@@ -8,6 +8,7 @@ Ich hatte die Idee, für mein Portfolio eine Datenbank anzulegen, um dort auch g
 Diese Lösung erschien mir jedoch schnell zu aufwendig. Die Variante mit YouTube war deutlich einfacher, da ich so gleichzeitig einen YouTube-Kanal habe, auf dem alle Videos gesammelt sind.
 Meine neue Idee war deshalb, meine Projekte auf einer minimalistischen Website für sich sprechen zu lassen und diese mit gut ausgewählten Fotos zu unterstreichen. 
 Jedes Projekt erhält eine kurze Beschreibung sowie eine Weiterleitung zu ausführlicheren Artikeln, vollständigen Videos oder zu Instagram-Auftritten, an denen ich mitgewirkt habe oder die ich selbst umgesetzt habe.
+Dazu hab ich mich für ein slider und nicht für eine Galerie entschieden, da ich es ansprechender finde, wenn die Bilder automatisch durch laufen.
 <img width="1558" height="380" alt="Screenshot 2026-01-08 233658" src="https://github.com/user-attachments/assets/a967b021-df0e-428e-a985-42cb4661baad" />
 <img width="550" height="771" alt="Screenshot 2026-01-08 233926" src="https://github.com/user-attachments/assets/ece1beeb-a463-41f1-921b-135025beb700" />
 <img width="2667" height="337" alt="Screenshot 2026-01-08 234002" src="https://github.com/user-attachments/assets/d6966440-eefa-4494-a234-d5b7d731fda6" />
